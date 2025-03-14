@@ -1,4 +1,4 @@
-# A38 MotorIST Project Read Me
+# SecureRide Shield Project README
 
 ## Team
 
@@ -9,12 +9,9 @@
 | 112763 | Tanguy Vésy  | <https://github.com/TonyVesy> | <tanguy.vesy@tecnico.ulisboa.pt> |
 
 
-
-![Elie](img/Elie.png) ![Flavien](img/Falvien.png) ![Tanguy](img/Tanguy.png)
-
 ## Introduction 
 
-MotorIST is the new system available in IST to communicate with your electric car! The system allows users to configure the car remotely, such as close/open the car; configure the AC; check the battery level.
+SecureRide Shield is the new system available to communicate with your electric car! The system allows users to configure the car remotely, such as close/open the car; configure the AC; check the battery level.
 
 This is done by a user application installer on the users computer. Additionally, and to maintain the car up to date, the car also allows for firmware updates from the manufacturer.
 
@@ -219,16 +216,6 @@ This concludes this simple demonstration, a lot of other commands are available,
 
 - [Java 11.0.16.1](https://openjdk.java.net/)
 - [Maven 3.9.5](https://maven.apache.org/)
-
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning.  
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) for details.
-
-*(switch to another license, or no license, as you see fit)*
 
 ----
 END OF README
