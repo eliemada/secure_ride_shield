@@ -1,0 +1,2 @@
+project_deliverables/projet_final.mp4 filter=lfs diff=lfs merge=lfs -text
+project_deliverables/projet_final.screenstudio filter=lfs diff=lfs merge=lfs -text
