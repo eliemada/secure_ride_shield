@@ -9,6 +9,10 @@
 | 112763 | Tanguy Vésy  | <https://github.com/TonyVesy> | <tanguy.vesy@tecnico.ulisboa.pt> |
 
 
+## Demo Video
+https://github.com/user-attachments/assets/66acc947-af03-4d8e-8d8e-57a1daa61658
+
+
 ## Introduction 
 
 SecureRide Shield is the new system available to communicate with your electric car! The system allows users to configure the car remotely, such as close/open the car; configure the AC; check the battery level.
