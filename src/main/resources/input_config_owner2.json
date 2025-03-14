@@ -1,0 +1,18 @@
+{
+  "carID": "1234XYZ",
+  "user": "user2",
+  "private_configuration": {
+    "ac": [
+      { "out1": "456" },
+      { "out2": "789" }
+    ],
+    "seat": [
+      { "pos1": "2" },
+      { "pos3": "4" }
+    ]
+  },
+  "public_car_info": {
+    "battery_level": "75%",
+    "total_mileage": "15000"
+  }
+}
